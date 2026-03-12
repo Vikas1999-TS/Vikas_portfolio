@@ -92,7 +92,7 @@ const Hero = () => {
                         <a href="#contact" className="btn btn-outline">
                             Contact Me <ArrowRight size={17} />
                         </a>
-                        <a href={resumeFile} target="_blank" rel="noopener noreferrer" className="btn btn-ghost">
+                        <a href={resumeFile} target="_blank" rel="noopener noreferrer" className="btn btn-primary">
                             <Eye size={17} /> Resume
                         </a>
                     </motion.div>

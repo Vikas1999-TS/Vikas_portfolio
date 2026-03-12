@@ -297,8 +297,8 @@
     animation: floatCard 5s ease-in-out infinite 1s;
 }
 .hero-float-card.card-3 {
-    bottom: 10%;
-    right: 280px;
+    bottom:10%;
+    right: 270px;
     animation: floatCard 4s ease-in-out infinite 1s;
 }
 .hero-float-card.card-4 {
