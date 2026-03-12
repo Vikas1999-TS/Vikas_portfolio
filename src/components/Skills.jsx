@@ -23,7 +23,7 @@ const Skills = () => {
         {
             title: 'Testing Expertise',
             icon: <Code size={30} />,
-            skills: ['STLC', 'Test Case Design', 'Functional Testing', 'Regression Testing','Exploratory Testing','UIUX Testing', 'Mobile Testing', 'API Testing', 'Performance Testing (Basics) ⭐', 'UAT', 'E2E Testing','Tet Planning',]
+            skills: ['STLC', 'Test Case Design', 'Functional Testing', 'Regression Testing','Exploratory Testing','UIUX Testing', 'Mobile Testing', 'API Testing', 'Performance Testing (Basics)', 'UAT', 'E2E Testing','Tet Planning',]
         },
         {
             title: 'Mobile QA Skills',
